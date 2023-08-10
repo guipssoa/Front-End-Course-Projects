@@ -16,7 +16,7 @@ Ordenados por data de criação.
 
 7 - Shopping Cart `html + css + javascript + tests`
 
-8 - Solar System `react + css`
+8 - Solar System `react + css + tests`
 
 9 - Triunfo `react + css + tests`
 
